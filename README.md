@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaajPatel132
 - 👀 I’m currently working on Flutter
-- 🌱 I’m currently learning Node as well as blogchain..
+- 🌱 I’m currently learning Node as well as Blockchain development..
 - 💞️ I’m looking to collaborate on android with Java, flutter, nodeJs  
 - 📫 You cab  reach me via email me at raajpatel132@gmail.com or [LinkedIn](https://www.linkedin.com/in/raaj--patel/)
 
